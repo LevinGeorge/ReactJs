@@ -6,8 +6,8 @@ const HoroscopeHeader = React.createClass({
     return (
       <div className="horoscope-header">
         <div className="header-text">
-          <h1>Weekly Horoscope!</h1>
-          <p>Read your fortune here today!</p>
+          <h1><bold>Weekly Horoscope!</bold></h1>
+          <p><bold>Read your fortune here today</bold>!</p>
         </div>
       </div>
     );
